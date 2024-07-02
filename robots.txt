@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wicklacio.github.io/sitemap
+Sitemap: https://wicklacio.github.io/app/sitemap
+Sitemap: https://wicklacio.github.io/assets/sitemap
+Sitemap: https://wicklacio.github.io/css/sitemap
+Sitemap: https://wicklacio.github.io/includes/sitemap
+Sitemap: https://wicklacio.github.io/item/sitemap
+Sitemap: https://wicklacio.github.io/src/sitemap
